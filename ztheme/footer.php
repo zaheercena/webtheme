@@ -1,0 +1,6 @@
+
+  <footer>
+    <p>This is Footer</p>
+  </footer>
+  </body>
+</html>
